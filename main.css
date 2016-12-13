@@ -1,0 +1,12 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    color: blue;
+    font-size: 30px;
+}
+
+.search-section {
+    margin-top: 20px;
+    text-align: center;
+}
